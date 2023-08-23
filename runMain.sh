@@ -6,4 +6,3 @@ cd ./main
 ./main
 cd ../test/
 ./rectangle-test
-pause
